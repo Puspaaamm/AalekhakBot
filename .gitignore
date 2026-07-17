@@ -1,0 +1,14 @@
+# Ignore local Pywikibot configuration and passwords
+user-config.py
+user-password.py
+*.lck
+
+# Python temporary files and caches
+__pycache__/
+*.pyc
+.DS_Store
+
+# Virtual environments
+venv/
+env/
+
